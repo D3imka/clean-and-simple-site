@@ -1,2 +1,2 @@
 # clean-and-simple-site
-self-study
+https://d3imka.github.io/clean-and-simple-site/
